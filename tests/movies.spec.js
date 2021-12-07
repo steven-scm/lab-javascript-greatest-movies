@@ -148,6 +148,7 @@ describe('Function "scoresAverage"', () => {
   });
 });
 
+
 // Iteration 4
 describe('Function "dramaMoviesScore"', () => {
   it('should be declared', () => {
@@ -203,6 +204,7 @@ describe('Function "dramaMoviesScore"', () => {
   });
 });
 
+/*
 // Iteration 5
 describe('Function "orderByYear"', () => {
   it('should be declared', () => {
@@ -466,3 +468,4 @@ describe('Function "bestYearAvg"', () => {
     );
   });
 });
+*/
